@@ -4,11 +4,11 @@
 Hi, I'm [**Kishlay Pal**](https://github.com/kishlaypal/kishlaypal.github.io), a dedicated individual currently pursuing a Bachelor's degree in Computer Science at IIT Goa. I have a keen interest in technology and academic excellence, and exemplify a commitment to learning and innovation.
 
 # Education 
-| Academic year	       |Standard	      |Grade      | School-name	   |
+| Academic year	       |Standard	       |Grade      | School-name	   |
 |--------------------- | -------------- | --------- |----------------| 
-|`2019-20`             |`10th`			    |		`97.2%`	| `DPS Kalyanpur`|
-|`2021-22`					   |`12th`			    |		`97.6%`	| `DPS Kalyanpur`| 
-|`2022-Present`			   |`B.Tech - CSE`  |		`8.97` 	| `IIT Goa`		   |
+|`2019-20`             |`10th`			       |		`97.2%`	 | `DPS Kalyanpur`|
+|`2021-22`					        |`12th`			       |		`97.6%`	 | `DPS Kalyanpur`| 
+|`2022-Present`			     |`B.Tech - CSE`  |		`8.97` 	 | `IIT Goa`		    |
 
 
 # Course @IIT Goa
