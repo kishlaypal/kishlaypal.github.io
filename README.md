@@ -1,7 +1,7 @@
 
 # About Me
-
 Hi, I'm [**Kishlay Pal**](https://github.com/kishlaypal/kishlaypal.github.io), a dedicated individual currently pursuing a Bachelor's degree in Computer Science at IIT Goa. I have a keen interest in technology and academic excellence, and exemplify a commitment to learning and innovation.
+![Photo](https://www.freepik.com/free-vector/it-takes-two-tango-idiom_2956131.htm#query=cartoon%20face&position=4&from_view=keyword&track=ais)
 
 # Education 
 | Academic year	       |Standard	       |Grade      | School-name	   |  
@@ -24,7 +24,7 @@ Hi, I'm [**Kishlay Pal**](https://github.com/kishlaypal/kishlaypal.github.io), a
  8. **ME101** - Introduction to Manufacturing ~ *by Dr. Arindam Das*
  9. **PH101** - Quantum Physics and Application ~ *by Dr. Santosh Kumar Das and Dr. Sudipta Kanungo*
 
-### 1st Year Spring Semester
+### Spring Semester
 - **PH102**- Electricity and Magnetism ~ *by Dr. Vaibhav Wasnik, Dr. Santosh Kumar*
 - **EE102**- Circuit Analysis ~ *by Dr. Shaktiprasad*
 - **EE101**- Intro. to Electrical and Electronics Engineering ~ *by Dr. Apeksha Madhukar, Dr. Bidhan Pramanik*
