@@ -1,4 +1,3 @@
-
 # About Me
 Hi, I'm [**Kishlay Pal**](https://kishlaypal.github.io/), a dedicated individual currently pursuing a Bachelor's degree in Computer Science at IIT Goa. I have a keen interest in technology and academic excellence, and exemplify a commitment to learning and innovation.
 
